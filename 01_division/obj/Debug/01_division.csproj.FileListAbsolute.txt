@@ -1,0 +1,6 @@
+F:\tlü\1920_I\prog_III\01_division\bin\Debug\01_division.exe.config
+F:\tlü\1920_I\prog_III\01_division\bin\Debug\01_division.exe
+F:\tlü\1920_I\prog_III\01_division\bin\Debug\01_division.pdb
+F:\tlü\1920_I\prog_III\01_division\obj\Debug\01_division.csprojAssemblyReference.cache
+F:\tlü\1920_I\prog_III\01_division\obj\Debug\01_division.exe
+F:\tlü\1920_I\prog_III\01_division\obj\Debug\01_division.pdb

@@ -1,0 +1,6 @@
+F:\tlü\1920_I\prog_III\03_guessGame\bin\Debug\03_guessGame.exe.config
+F:\tlü\1920_I\prog_III\03_guessGame\bin\Debug\03_guessGame.exe
+F:\tlü\1920_I\prog_III\03_guessGame\bin\Debug\03_guessGame.pdb
+F:\tlü\1920_I\prog_III\03_guessGame\obj\Debug\03_guessGame.csprojAssemblyReference.cache
+F:\tlü\1920_I\prog_III\03_guessGame\obj\Debug\03_guessGame.exe
+F:\tlü\1920_I\prog_III\03_guessGame\obj\Debug\03_guessGame.pdb
