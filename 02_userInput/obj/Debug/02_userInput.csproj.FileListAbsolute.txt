@@ -1,0 +1,12 @@
+F:\tlü\1920_I\prog_III\02_userInput\obj\Debug\02_userInput.csprojAssemblyReference.cache
+F:\tlü\1920_I\prog_III\02_userInput\bin\Debug\02_userInput.exe.config
+F:\tlü\1920_I\prog_III\02_userInput\bin\Debug\02_userInput.exe
+F:\tlü\1920_I\prog_III\02_userInput\bin\Debug\02_userInput.pdb
+F:\tlü\1920_I\prog_III\02_userInput\obj\Debug\02_userInput.exe
+F:\tlü\1920_I\prog_III\02_userInput\obj\Debug\02_userInput.pdb
+C:\tlü\1920_I\prog_III\02_userInput\bin\Debug\02_userInput.exe.config
+C:\tlü\1920_I\prog_III\02_userInput\bin\Debug\02_userInput.exe
+C:\tlü\1920_I\prog_III\02_userInput\bin\Debug\02_userInput.pdb
+C:\tlü\1920_I\prog_III\02_userInput\obj\Debug\02_userInput.csprojAssemblyReference.cache
+C:\tlü\1920_I\prog_III\02_userInput\obj\Debug\02_userInput.exe
+C:\tlü\1920_I\prog_III\02_userInput\obj\Debug\02_userInput.pdb
