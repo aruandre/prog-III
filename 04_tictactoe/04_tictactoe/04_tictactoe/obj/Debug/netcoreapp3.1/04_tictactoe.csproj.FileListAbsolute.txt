@@ -1,0 +1,11 @@
+C:\tlü\1920_I\prog_III\04_tictactoe\04_tictactoe\04_tictactoe\obj\Debug\netcoreapp3.1\04_tictactoe.csprojAssemblyReference.cache
+C:\tlü\1920_I\prog_III\04_tictactoe\04_tictactoe\04_tictactoe\obj\Debug\netcoreapp3.1\04_tictactoe.AssemblyInfoInputs.cache
+C:\tlü\1920_I\prog_III\04_tictactoe\04_tictactoe\04_tictactoe\obj\Debug\netcoreapp3.1\04_tictactoe.AssemblyInfo.cs
+C:\tlü\1920_I\prog_III\04_tictactoe\04_tictactoe\04_tictactoe\bin\Debug\netcoreapp3.1\04_tictactoe.exe
+C:\tlü\1920_I\prog_III\04_tictactoe\04_tictactoe\04_tictactoe\bin\Debug\netcoreapp3.1\04_tictactoe.deps.json
+C:\tlü\1920_I\prog_III\04_tictactoe\04_tictactoe\04_tictactoe\bin\Debug\netcoreapp3.1\04_tictactoe.runtimeconfig.json
+C:\tlü\1920_I\prog_III\04_tictactoe\04_tictactoe\04_tictactoe\bin\Debug\netcoreapp3.1\04_tictactoe.runtimeconfig.dev.json
+C:\tlü\1920_I\prog_III\04_tictactoe\04_tictactoe\04_tictactoe\bin\Debug\netcoreapp3.1\04_tictactoe.dll
+C:\tlü\1920_I\prog_III\04_tictactoe\04_tictactoe\04_tictactoe\bin\Debug\netcoreapp3.1\04_tictactoe.pdb
+C:\tlü\1920_I\prog_III\04_tictactoe\04_tictactoe\04_tictactoe\obj\Debug\netcoreapp3.1\04_tictactoe.dll
+C:\tlü\1920_I\prog_III\04_tictactoe\04_tictactoe\04_tictactoe\obj\Debug\netcoreapp3.1\04_tictactoe.pdb
